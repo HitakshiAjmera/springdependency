@@ -186,9 +186,9 @@ mvn spring-boot:run
 ./mvnw spring-boot:run
 ```
 
-## What You Learn From This Project
+## What all concept cover in this Project
 
-By studying this project, you can understand:
+this project contains below concepts
 
 - how Spring finds beans
 - how interfaces and implementations work with DI
@@ -197,7 +197,7 @@ By studying this project, you can understand:
 - how configuration classes create beans manually
 - how Maven is used in a Spring Boot project
 
-## Beginner Summary
+## Summary
 
 This project is a simple practice project for understanding **Spring Dependency Injection**.
 
@@ -214,6 +214,5 @@ This makes the code:
 - easier to test
 - easier to maintain
 
-## Note
 
 
